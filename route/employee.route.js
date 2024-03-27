@@ -12,7 +12,7 @@ empRouter.get('/',auth,async(req,res)=>{
         if(_search) {
             query.firstname = _search;
         }
-        if(_department) {
+        if(_filter) {
             query.department = _filter;
         }
         const totalEmployees = await EmployeeModel.countDocuments(query);
