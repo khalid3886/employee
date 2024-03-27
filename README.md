@@ -4,7 +4,6 @@
 Employee Management Software is a software where admin can add new employee, delete and edit employee information and display employee data in form of table.
 
 ## Table of Contents
-- [Team Members](#team-members)
 - [Deployed App](#deployed-app)
 - [Features](#features)
 - [Tech Stack](#technology-stack)
@@ -54,19 +53,19 @@ Here are some preview images of the website pages:
 
 
 **Sign In**
-<img src="frontend/assets/login.png">
+<img src="https://github.com/khalid3886/employee/blob/main/assets/signin.png">
 
 
 **Dashboard**
-<img src="frontend/assets/landing.png">
+<img src="https://github.com/khalid3886/employee/blob/main/assets/dashboard.png">
 
 
-**Main Room**
-<img src="frontend/assets/Screenshot (285).png">
+**Sign Up**
+<img src="https://github.com/khalid3886/employee/blob/main/assets/register.png">
 
 
-**Main Room**
-<img src="frontend/assets/maintrans.png">
+**Add Employee**
+<img src="https://github.com/khalid3886/employee/blob/main/assets/form.png">
 
 
 
